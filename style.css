@@ -1,0 +1,180 @@
+
+body{margin:0;padding:0;-webkit-box-sizing: border-box;box-sizing: border-box;}
+*{-webkit-box-sizing: border-box;box-sizing: border-box;list-style: none;text-decoration: none;font-family: sans-serif;}
+button a{color:white!important;text-decoration: none;text-transform: upper;}
+html{font-size: 100%}
+.container0{width:90%;margin:auto;overflow: hidden ;}
+.top-header{margin-top:15px;border-bottom:1px solid #adadad}
+.bottom-header{background-color:white;border-bottom:1px solid #adadad;margin-bottom:;overflow: hidden;}
+.logo-area{width:30%;;float:left}
+.logo-area img{width:200px}
+
+.address-area{width:70%;float:left;overflow:hidden}
+.address-area .itemm{float:right}
+
+.call-us{float:left;margin-right:2rem;}
+.fast{color: #6ec1e4;}
+.work-time{float:left;margin-right:2rem;}
+.address{float:left;}
+.fa1{float:left;margin-top: 30px;color:#C2CBD2;font-size: 1.8rem}
+.call{float:left;padding-left:20px;}
+.work{float:left;padding-left:20px;}
+.pro{float:left;padding-left:20px;}
+
+.pyra{margin-bottom:15px;margin-left:50px;width:40%;}
+ul li a{text-transform:uppercase;text-decoration:none;margin-right:60px}
+ul li{display:inline-block}
+ul a{text-transform:uppercase;text-decoration:none;font-size:0.8rem}
+ul li a:hover{color:#6ec1e4;}
+
+ul l{float:left;}
+.dropdown-content a{display: block;padding:12px 16px;}
+.dropdown-content a:hover{color:black;}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  -webkit-box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+          box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+ul li {padding:10px;}
+.dropdown-content a{border:none;color:}
+.dropdown-content a:hover{border:none;background: #6ec1e4}
+.btn{background-color: red;border:none;padding:5px;border-radius: 5px;}
+.second-menu li a{margin-right:40px;padding:10px;text-decoration: none;color:black;
+}
+
+.btnn a{margin-right:0;text-decoration: none;color:black;}
+.btnn{background-color: red;border-radius: 5px;border:none;padding:5px 20px;}
+span{display: none;float:right;margin:0 20px;font-size: 2.5rem}
+
+/*start slide*/
+#showcase img{height:400px;background-position: center center;background-size: cover;background-repeat: no-repeat;width:100%}
+.display-5{color:white}
+.btnSlider{padding:15px 25px}
+.btnSlider a{color:white}
+/* column section*/
+.container3{width:80%;margin:auto;text-align: center;margin-top:5rem;margin-bottom:5rem;overflow: hidden;border:1px solid #adadad;}
+.box1{float:left;width:33.33%;padding-right: 20px}
+.box2{float:left;width:33.33%;padding-right: 20px}
+.box3{float:left;width:33.33%;}
+.fa2{font-size:2.81rem;padding:20px;border-radius: 50%
+}
+.fa2:hover{background:red;color:white;-webkit-transition: .4s;-o-transition: .4s;transition: .4s
+}
+/* column section*/
+
+/* column section*/
+
+.home{background-image: url("https://www.airductcharleston.com/wp-content/uploads/2019/01/air-duct-charleston-bg1.jpg");width:100%;height:650px;background-repeat: no-repeat;}
+.consultation{padding:5px 10px;background:red;border:none;border-radius: 5px;color:black;}
+.consultation a {text-decoration: none}
+.phn{margin-left: 10px;font-size:1.25rem;
+margin-right:5px;color:black;}
+b{font-size:1.25rem;color:black;}
+.choose h4{color:#11224d;font-weight:400px;font-size: 20px}
+
+.row1{width:100%;height:100%;position:relative;}
+/* column section*/
+.air{margin-top:-1rem;}
+.air{background-image:url('https://www.airductcharleston.com/wp-content/uploads/2019/01/air-duct-charleston-bg2.jpg');background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+    .ram{padding:4rem;color:white;}
+    .ram h2{color:white;font-weight: bold;font-size:3.68rem}
+     .ram h4{color:#6ec1e4;margin-top:0;font-weight: 400;font-size:1.43rem}
+  
+    .btn4{background-color:#6ec1e4 ;border:none;margin-right:20px;padding:5px 10px;border-radius: 5px}
+    .ram button a{color: white;}
+    .btn5{background-color:transparent;border:1px solid white;padding:5px 10px;border-radius: 5px}
+    
+/* column section*/
+.serve h4{color:#6ec1e4;}
+/* column section*/
+.contact h1{color:#11224d;font-size:3.68rem;font-weight: 600px;margin-left:10px;}
+.contact p{margin-left: 15px}
+/* column section*/
+.advance h5{color:#6ec1e4;font-weight: 500;font-size:1.875rem}
+.advance h2{color:#11224d;font-weight: 500;font-size:2.5rem}
+.mon h3{font-weight: bold}
+/* column section*/
+.main-content{background-color: pi;overflow: hidde;position:relativ;}
+.slick-next:before {
+    content: '--';
+}
+.slick-prev:before {
+    content: '--';}
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size:1.25rem;
+    line-height: 1;
+    opacity: .75;
+    color: black;}
+
+    .slick-dots li button:before {
+    font-family: 'slick';
+    font-size: 0.625rem;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    content: '-';
+    text-align: center;
+    opacity: .25;
+    color: black;
+    background:red;
+}
+/* column section*/
+.main-content1{background-image: url('https://www.airductcharleston.com/wp-content/uploads/2019/01/air-duct-charleston-bg3.jpg');width:100%;height:auto;background-repeat: no-repeat;position: relative;background-position: center center;
+    
+    background-size: cover;margin-top:50px;}
+    .form-group{
+    border-width: 1px 1px 1px 1px;
+    border-radius: 30px 30px 30px 30px;}
+   
+/* column section*/
+.middle{background-image: url("https://www.airductcharleston.com/wp-content/uploads/2019/01/air-duct-cleaning-advantages.png");width:502px;height:503px;background-repeat: no-repeat;background-position: center center;border-radius: 20px;margin-top:-50px;}
+.btn6{padding:10px 40px;background-color: red;border:none;}
+.btn6 a{font-size:1.25rem;color:black;text-decoration: none}
+/* column section*/
+.slider1{font-size:1.25rem;text-align: center;border:1px solid #C2CBD2;background-color: white;border-radius: 10px;color:#7a7a7a;}
+.slider1 img{text-align: center;width:50px;height:50px;}
+.testimonial img{margin:0 auto}
+.testimonial b{margin-left:20px;}
+.main-conten{margin-top:100px;}
+.slider-section{background-color:#f0f4f9;}
+/* column section*/
+.far{background-color: #3b5998; ;height:50px;width:50px;text-align: center;position: relative;margin-right:10px;}
+.ra i{padding-top:14px;font-size:1.25rem;border-radius: 50%;color:white;}
+.tar{background-color:#1da1f2; height:50px;width:50px;text-align: center;position: relative;margin-right:10px;}
+.rar{background-color: #dd4b39;height:50px;width:50px;text-align: center;position: relative;margin-right:10px;}
+
+.kar{background-color:#cd201f;height:50px;width:50px;text-align: center;position: relative;}
+.input{border:1px solid red;width:60%;padding:10px 10px;border-radius: 50px;}
+.btn11{background-color: green;padding:10px 20px;border-radius: 50px;border:none;}
+.btn11 a {color:white;text-decoration: none}
+.main-content7{margin-top:50px;background-color:#0a1a41 }
+/* column section*/
+.fa-dot-circle-o{padding-right:10px;}
+.p h1{text-transform: uppercase;font-size:1.875rem}
+.p{line-height:20px}
+.p a{text-decoration: none;color:white;}
+.main-content8{background-color:  #11224d}
+.main-content8 p,h1,h5{color:white;}
+.map{margin-right:10px;color:: #00a5ea;}
+.map .fa{color:#00a5ea}
+.p:hover{color:green;}
+.main-content8 a{text-decoration: none}
+.we p{color:#9daab0;}
+.office h5{font-stretch: expanded;font-weight: bold;font-size:1.25rem}
+.footer{text-align: center;background-color: #11224d;margin:0;width:100%;padding:5px 0;}
+.footer h5{color:white;margin:5px 0;}
+.copy{border-top:1px dotted #adadad;}
